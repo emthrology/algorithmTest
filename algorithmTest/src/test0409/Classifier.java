@@ -14,7 +14,7 @@ public class Classifier {
 			return "LETTER ";
 		}
 		/*(아직 지원안되는 연산자들)
-		if("+-*/&!=".indexOf(ch)>=0) {
+		if("+-/*&!=".indexOf(ch)>=0) {
 			return "OPERATOR ";
 		}
 		*/
